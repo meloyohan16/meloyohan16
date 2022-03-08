@@ -1,5 +1,5 @@
 ## :man_technologist: Hello World, I'm Yohan Melo
-### Studying Python, Typescript, Html, Css
+### Studying Python, Typescript, Html, Css, Java
 ### 📚 I'm looking to learn programming languages ​​to identify myself
 <div align="center">
   <a href="https://github.com/meloyohan16">
